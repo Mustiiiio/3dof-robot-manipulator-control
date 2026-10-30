@@ -1,0 +1,13 @@
+# MATLAB / Simulink autosave and temporary files
+*.asv
+*.autosave
+*.slxc
+slprj/
+codegen/
+*.m~
+*.slx.r20*
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+# Large results should be intentionally curated before upload
