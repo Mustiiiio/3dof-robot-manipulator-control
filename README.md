@@ -136,10 +136,8 @@ Read more in [Control Strategies](docs/03_control_strategies.md).
 ## Limitations
 
 - All reported results are from **MATLAB/Simulink simulations**; no physical manipulator experiments are claimed.
-- Figures were extracted from the academic report and have not been regenerated from raw logs.
 - Some written force-error statements in the original report are inconsistent with the displayed convergence plots. This repository distinguishes **environment force `Fe`** from **tracking error `eF`** and avoids asserting an unverified numerical steady-state value.
 - Controller performance metrics, software versions, and reproduction steps should be verified when the original models are published.
-
 See [Results and Limitations](docs/04_results_and_limitations.md) and [Reproduction Guide](docs/05_reproduction_guide.md).
 
 ## Credits
